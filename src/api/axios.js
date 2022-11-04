@@ -17,7 +17,7 @@ function errorLog(error) {
 
 const service = axios.create({
 //   baseURL: 'https://telegra.ph',
-  baseURL: 'https://i.wishs.me',
+  baseURL: 'https://telegra-ph-reverse-proxy.trojan.workers.dev',
 })
 
 // 请求拦截
