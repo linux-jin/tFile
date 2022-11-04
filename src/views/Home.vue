@@ -150,8 +150,8 @@ export default {
             this.$message.error(res.error);
             return;
           }
-          this.resUrl.url = `https://telegra.ph${res[0].src}`;
-          this.resUrl.md = `![wishtfile](https://telegra.ph${res[0].src})`;
+          this.resUrl.url = `https://tfile.666986.xyz${res[0].src}`;
+          this.resUrl.md = `![tfile](https://tfile.666986.xyz${res[0].src})`;
           this.$message.success("上传成功");
         })
         .catch((err) => {
