@@ -1,6 +1,6 @@
 <template>
   <div class="upload" v-loading.fullscreen.lock="fullscreenLoading">
-    <a href="https://github.com/WishMelz/tFile">
+    <a href="https://github.com/linux-jin/tFile">
       <img
         style="
           position: fixed;
