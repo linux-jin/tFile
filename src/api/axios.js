@@ -17,7 +17,7 @@ function errorLog(error) {
 
 const service = axios.create({
   // baseURL: 'https://telegra.ph',
-  baseURL: 'https://tfile.mistyhill.ml',
+  baseURL: 'https://tfile.666986.xyz',
 })
 
 // 请求拦截
