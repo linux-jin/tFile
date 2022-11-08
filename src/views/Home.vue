@@ -67,11 +67,11 @@
     </el-row>
     <footer>
       <span>
-        <a href="https://github.com/WishMelz/imgurl">Github图片管理系统</a>
+        <a href="https://www.cloudflare.com">Powered By CloudFlare</a>
       </span>
       |
       <span>
-        <a href="https://github.com/WishMelz/tFile">TG视频/图片床</a>
+        <a href="https://github.com/WishMelz/tFile">SourceCode By WishMelz</a>
       </span>
     </footer>
   </div>
