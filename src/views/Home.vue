@@ -1,18 +1,5 @@
 <template>
   <div class="upload" v-loading.fullscreen.lock="fullscreenLoading">
-    <a href="https://github.com/linux-jin/tFile">
-      <img
-        style="
-          position: fixed;
-          top: 0px;
-          right: 0px;
-          border: 0px;
-          width: 150px;
-        "
-        src="https://cdn.jsdelivr.net/gh/WishMelz/file@master/messy/614b81962449bb3430193bdd6eaa3c7f.png"
-        alt="Fork me on GitHub"
-      />
-    </a>
     <el-row style="text-align: center">
       <el-col>
         <el-upload
